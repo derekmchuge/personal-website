@@ -6,7 +6,8 @@ theme = "anatole"
 [params]
     title = "Derek McHugh"
     author = "Derek McHugh"
-    description = "Data / Analytics / AI"
+    description = """Data / Analytics / AI
+    """
     profilePicture = "images/me.jpeg"
 
 [[params.socialIcons]]
@@ -39,3 +40,7 @@ url = "mailto:derekmchuge@gmail.com"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+
+
+  copyright = "2020-{{ YEAR }}"
