@@ -11,6 +11,8 @@ theme = "anatole"
     profilePicture = "images/me.jpeg"
     readMore = true
     fullPostContent = true
+    displayMode = "dark"
+    disableTitleCapitalization = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
