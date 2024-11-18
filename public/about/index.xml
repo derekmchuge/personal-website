@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Abouts on My New Hugo Site</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2024 11:50:45 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2024 14:30:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 18 Nov 2024 11:50:45 +0000</pubDate>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 18 Nov 2024 14:30:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       
         <description>&lt;p&gt;I come with a mixed bag of experience - academic research and teaching, analytical roles in finance and insurance, and leadership roles at established multinational companies and hypergrowth startups. The common denominator is a desire to create lasting impact through data and analytics, and an ability to build data teams with a high-performance culture.&lt;/p&gt;
 &lt;p&gt;I live in Dublin, Ireland and enjoy parkrun on a Saturday morning, coaching my sons&amp;rsquo; GAA and rugby teams and learning new recipes.&lt;/p&gt;</description>
