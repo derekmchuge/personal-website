@@ -1,5 +1,5 @@
 ---
-title: "Long_post"
+title: "The Bosman Ruling"
 date: 2024-11-18T14:58:52Z
 Description: ""
 Tags: []
