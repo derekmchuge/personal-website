@@ -2,3 +2,40 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
+
+[params]
+    title = "Derek McHugh"
+    author = "Derek McHugh"
+    description = "Data / Analytics / AI"
+    profilePicture = "images/me.jpeg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/derekmchugh/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:derekmchuge@gmail.com"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
