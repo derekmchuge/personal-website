@@ -9,6 +9,8 @@ theme = "anatole"
     description = """Data / Analytics / AI
     """
     profilePicture = "images/me.jpeg"
+    readMore = true
+    fullPostContent = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
